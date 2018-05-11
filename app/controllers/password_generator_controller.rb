@@ -1,0 +1,2 @@
+class PasswordGeneratorController < ApplicationController
+end
